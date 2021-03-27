@@ -80,5 +80,6 @@ O objeto tweet é um JSON contendo todas as informações a respeito do usuário
 
 ### Talk is cheap, show me the code.
 
+{% gist lukaswilkeer/d0926e084106d0117de8 stream.js %}
 
 It's all folks!
