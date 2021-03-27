@@ -3,7 +3,7 @@ layout: post
 title:  "Stream do Twitter com node.js"
 date:   2015-02-07 16:58:55
 categories: nodejs
------
+---
 Este post faz parte de uma série contanto cada passo que eu darei no desenvolvimento de um app de curadoria de conteúdo.
 
 ----------------------------------
@@ -80,6 +80,5 @@ O objeto tweet é um JSON contendo todas as informações a respeito do usuário
 
 ### Talk is cheap, show me the code.
 
-{% gist lukaswilkeer/d0926e084106d0117de8 stream.js %}
 
 It's all folks!
