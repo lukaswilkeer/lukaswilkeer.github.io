@@ -3,10 +3,7 @@ layout: post
 title:  "Stream do Twitter com node.js"
 date:   2015-02-07 16:58:55
 categories: nodejs
----
-Este post faz parte de uma série contanto cada passo que eu darei no desenvolvimento de um app de curadoria de conteúdo usando machine learning e mineração de dados.
 
----------------------------------
 <br />
 O objetivo deste post é ensinar como fazer a stream da timeline de um determinado usuário do twitter, usando node.js. Para isto, nós usaremos a biblioteca **[ntwitter](https://www.npmjs.com/package/ntwitter)**, além de ter a necessidade de um [app registrado no twitter](http://apps.twitter.com) para termos acesso aos tokens.
 
